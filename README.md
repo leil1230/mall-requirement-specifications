@@ -1,2 +1,3 @@
 # 电商系统需求说明书
-Requirement Specifications for mall project
+- 后台
+  - [商品模块](后台/商品模块/README.md)
